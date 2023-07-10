@@ -1,26 +1,22 @@
 Je suis Djennad Rany, un professionnel passionné par la technologie et le développement. Avec des qualifications en tant que Chef de projet technique, Webmaster, Développeur Front-end, Développeur A.E.M, Développeur Full Stack JS et Growth Hacker, je suis polyvalent et prêt à relever de nouveaux défis. J'ai une solide expérience dans la coordination d'équipes de développement, la gestion de projets, la maintenance de sites web, la création d'interfaces utilisateur interactives, l'utilisation d'Adobe Experience Manager, le développement full stack JS et la croissance des activités en ligne. Je suis constamment à jour avec les dernières tendances et technologies. Contactez-moi pour collaborer sur des projets passionnants et bénéficier de mes compétences pour atteindre vos objectifs.
 
+Welcome to my profile! My name is Djennad Rany, and I am a technology and development enthusiast. With diverse qualifications, I am a Technical Project Manager, Webmaster, Front-end Developer, A.E.M Developer, Full Stack JS Developer, and Growth Hacker.
 
+As a Technical Project Manager, I have gained extensive experience in coordinating development teams and managing projects. I possess the ability to understand clients' specific requirements and oversee the end-to-end development process to ensure successful goal attainment.
 
-Bienvenue dans mon profil ! Je m'appelle Djennad Rany et je suis un professionnel passionné par le monde de la technologie et du développement. Avec des qualifications variées, je suis un Chef de projet technique, Webmaster, Développeur Front-end, Développeur A.E.M, Développeur Full Stack JS et Growth Hacker.
+As a Webmaster, I have the necessary skills to effectively manage and maintain websites. I am proficient with content management systems (CMS) and can handle regular content updates, performance optimization, and troubleshooting technical issues.
 
-En tant que Chef de projet technique, j'ai acquis une solide expérience dans la coordination d'équipes de développement et la gestion de projets. J'ai la capacité de comprendre les exigences spécifiques des clients et de superviser le processus de développement de bout en bout pour garantir la réalisation des objectifs fixés.
+As a Front-end Developer, I have a strong understanding of programming languages such as HTML, CSS, and JavaScript. I am capable of creating interactive, modern, and user-friendly interfaces using best practices and the latest technologies.
 
-En tant que Webmaster, je possède les compétences nécessaires pour gérer et maintenir des sites web de manière efficace. Je suis à l'aise avec les CMS (systèmes de gestion de contenu) et je peux m'occuper de la mise à jour régulière du contenu, de l'optimisation des performances et de la résolution des problèmes techniques.
+As an A.E.M Developer, I am familiar with Adobe Experience Manager, a popular content management platform. I can work on content personalization, template and component creation, and integration of AEM solutions within existing ecosystems.
 
-En tant que Développeur Front-end, j'ai une solide connaissance des langages de programmation tels que HTML, CSS et JavaScript. Je suis capable de créer des interfaces utilisateur interactives, modernes et conviviales en utilisant les meilleures pratiques et les technologies les plus récentes.
+As a Full Stack JS Developer, I am comfortable working on both the client-side (front-end) and server-side (back-end). I have experience in building complete web applications using frameworks like React.js, Angular.js, and Node.js. I can also handle database management and develop APIs to ensure smooth interaction between the front-end and back-end.
 
-En tant que Développeur A.E.M, je suis familier avec Adobe Experience Manager, une plateforme de gestion de contenu populaire. Je peux travailler sur la personnalisation du contenu, la création de modèles et de composants, ainsi que sur l'intégration de solutions AEM dans un écosystème existant.
+As a Growth Hacker, I am passionate about growth and performance optimization. I constantly seek new strategies to enhance user experience, increase visibility, and develop online activities. I utilize digital marketing techniques and data analysis to drive growth and achieve set goals.
 
-En tant que Développeur Full Stack JS, je suis à l'aise à la fois du côté client (front-end) et du côté serveur (back-end). J'ai une expérience dans la création d'applications web complètes en utilisant des frameworks tels que React.js, Angular.js et Node.js. Je peux également gérer des bases de données et développer des API pour assurer une interaction fluide entre le front-end et le back-end.
+With my diverse background and versatile skill set, I am prepared to tackle new challenges and add value to any project I work on. I am an enthusiastic learner and stay up-to-date with the latest industry trends and technologies.
 
-En tant que Growth Hacker, je suis passionné par la croissance et l'optimisation des performances. Je suis constamment à la recherche de nouvelles stratégies pour améliorer l'expérience utilisateur, augmenter la visibilité et développer les activités en ligne. J'utilise des techniques de marketing numérique et d'analyse de données pour stimuler la croissance et atteindre les objectifs fixés.
-
-Avec mon parcours diversifié et mes compétences polyvalentes, je suis prêt à relever de nouveaux défis et à apporter une valeur ajoutée à tout projet sur lequel je travaille. Je suis un apprenant enthousiaste et je reste constamment à jour avec les dernières tendances et technologies du secteur.
-
-N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer sur des projets passionnants. Je suis impatient de mettre mes compétences à votre service et de contribuer à votre succès.
-
-
+Feel free to contact me if you have any questions or if you would like to collaborate on exciting projects. I am eager to contribute my skills and help you succeed.
 
 
 <!---
