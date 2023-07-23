@@ -1,5 +1,5 @@
 Je suis Djennad Rany, un professionnel passionné par la technologie et le développement. Avec des qualifications en tant que Chef de projet technique, Webmaster, Développeur Front-end, Développeur A.E.M, Développeur Full Stack JS et Growth Hacker, je suis polyvalent et prêt à relever de nouveaux défis. J'ai une solide expérience dans la coordination d'équipes de développement, la gestion de projets, la maintenance de sites web, la création d'interfaces utilisateur interactives, l'utilisation d'Adobe Experience Manager, le développement full stack JS et la croissance des activités en ligne. Je suis constamment à jour avec les dernières tendances et technologies. Contactez-moi pour collaborer sur des projets passionnants et bénéficier de mes compétences pour atteindre vos objectifs.
-<a href="https://nodejs.org"><img height=48 src="https://raw.githubusercontent.com/caiogondim/javascript-server-side-logos/master/node.js/standard/454x128.png"></a> | <a href="https://iojs.org"><img height=48 src="https://raw.githubusercontent.com/caiogondim/javascript-environments-logos/master/iojs/standard/224x256.png" alt="io.js logo"></a>
+<a href="https://nodejs.org"><img height=48 src="https://raw.githubusercontent.com/caiogondim/javascript-server-side-logos/master/node.js/standard/454x128.png"></a> 
 --- | ---
 0.10+ ✔ | 1.0+ ✔
 
