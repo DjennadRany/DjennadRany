@@ -2,12 +2,6 @@
   <img src="https://avatars.githubusercontent.com/u/128905298?v=4" />
 </p>
 
-Je suis Djennad Rany, un professionnel passionné par la technologie et le développement. Avec des qualifications en tant que Chef de projet technique, Webmaster, Développeur Front-end, Développeur A.E.M, Développeur Full Stack JS et Growth Hacker, je suis polyvalent et prêt à relever de nouveaux défis. J'ai une solide expérience dans la coordination d'équipes de développement, la gestion de projets, la maintenance de sites web, la création d'interfaces utilisateur interactives, l'utilisation d'Adobe Experience Manager, le développement full stack JS et la croissance des activités en ligne. Je suis constamment à jour avec les dernières tendances et technologies. Contactez-moi pour collaborer sur des projets passionnants et bénéficier de mes compétences pour atteindre vos objectifs.
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjennadRany&langs_count=8&&show_icons=true&theme=onedark) 
-[![DjennadRany GitHub stats](https://github-readme-stats.vercel.app/api?username=DjennadRany)](https://github.com/anuraghazra/github-readme-stats)
-
 <p dir="auto"><a href="https://www.typescriptlang.org/" title="Typescript" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="21px" height="21px" style="max-width: 100%;"></a>
@@ -46,6 +40,12 @@ Je suis Djennad Rany, un professionnel passionné par la technologie et le déve
 <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px" style="max-width: 100%;"></a>
 <a href="https://inkscape.org/" title="Inkscape" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/inkscape.svg" alt="Inkscape" width="21px" height="21px" style="max-width: 100%;"></a></p>
+Je suis Djennad Rany, un professionnel passionné par la technologie et le développement. Avec des qualifications en tant que Chef de projet technique, Webmaster, Développeur Front-end, Développeur A.E.M, Développeur Full Stack JS et Growth Hacker, je suis polyvalent et prêt à relever de nouveaux défis. J'ai une solide expérience dans la coordination d'équipes de développement, la gestion de projets, la maintenance de sites web, la création d'interfaces utilisateur interactives, l'utilisation d'Adobe Experience Manager, le développement full stack JS et la croissance des activités en ligne. Je suis constamment à jour avec les dernières tendances et technologies. Contactez-moi pour collaborer sur des projets passionnants et bénéficier de mes compétences pour atteindre vos objectifs.
+
+<p align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjennadRany&langs_count=8&&show_icons=true&theme=onedark) 
+[![DjennadRany GitHub stats](https://github-readme-stats.vercel.app/api?username=DjennadRany)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 
 Welcome to my profile! My name is Djennad Rany, and I am a technology and development enthusiast. With diverse qualifications, I am a Technical Project Manager, Webmaster, Front-end Developer, A.E.M Developer, Full Stack JS Developer, and Growth Hacker.
