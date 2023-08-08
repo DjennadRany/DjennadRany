@@ -50,7 +50,6 @@ Je suis Djennad Rany, un professionnel passionné par la technologie et le déve
 [![DjennadRany GitHub stats](https://github-readme-stats.vercel.app/api?username=DjennadRany)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
 Welcome to my profile! My name is Djennad Rany, and I am a technology and development enthusiast. With diverse qualifications, I am a Technical Project Manager, Webmaster, Front-end Developer, A.E.M Developer, Full Stack JS Developer, and Growth Hacker.
 
 As a Technical Project Manager, I have gained extensive experience in coordinating development teams and managing projects. I possess the ability to understand clients' specific requirements and oversee the end-to-end development process to ensure successful goal attainment.
